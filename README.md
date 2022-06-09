@@ -8,14 +8,14 @@ In this digital age, the pressure to perform and succeed can often lead to depre
 
 Download the repository and extract it.
 <br>
-Open 'ui.R' and 'server.r' in your local Rstudio application. A 'Run App' option will be displayed. Click on that to execute the shiny dashboard.
+Open ```ui.R``` and ```server.r``` in your local Rstudio application. A ```Run App``` option will be displayed. Click on that to execute the shiny dashboard.
 
 ## Data Source
 
 Link: https://www.kaggle.com/rajanand/suicides-in-india
 
 ## Language 
-The ‘R’ language was used to perform Data Analytics and Machine Learning. 'R Markdown' is used for knitting the file into Html
+The ```R``` language was used to perform Data Analytics and Machine Learning. ```R Markdown``` is used for knitting the file into Html
 
 ## Tools
 ->R studio <br>
